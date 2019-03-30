@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/rupor-github/ssh-agent-wsl",
+    "description": "weasel-pageant allows you to use SSH keys held by Windows's native ssh-agent in WSL",
+    "license": "GPL-3.0-or-later",
+    "version": "2.2",
+    "url": "https://github.com/rupor-github/ssh-agent-wsl/releases/download/v2.2/ssh-agent-wsl.7z",
+    "checkver": {
+        "github": "https://github.com/rupor-github/ssh-agent-wsl/"
+    },
+    "autoupdate": {
+        "url": "https://github.com/rupor-github/ssh-agent-wsl/releases/download/v$version/ssh-agent-wsl.7z"
+    },
+    "notes": [
+        "Add 'eval $(/mnt/c/Users/$USER/scoop/apps/ssh-agent-wsl/current/ssh-agent-wsl -r)' to your WSL ~/.bashrc",
+        "More information about setup can be read on https://github.com/rupor-github/ssh-agent-wsl/blob/master/README.md"
+    ]
+}
