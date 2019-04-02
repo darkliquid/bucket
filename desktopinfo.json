@@ -8,7 +8,6 @@
             "Desktop Info"
         ]
     ],
-    "persist": "desktopinfo.ini",
     "homepage": "https://www.glenn.delahoy.com/desktopinfo/",
     "checkver": "Version: ([\\d\\.]+)",
     "description": "Display system information on your desktop",
