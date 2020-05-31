@@ -1,0 +1,13 @@
+{
+    "version": "0.1.27",
+    "url": "https://github.com/vlang/v/releases/download/0.1.27/v_windows.zip",
+    "extract_dir": "v",
+    "bin": "v.exe",
+    "homepage": "https://vlang.io/",
+    "checkver": "v([\\d\\.]+)",
+    "description": "The V Programming Language",
+    "license": "MIT",
+    "autoupdate": {
+        "url": "https://github.com/vlang/v/releases/latest/download/v_windows.zip"
+    }
+}
