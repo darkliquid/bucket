@@ -1,0 +1,15 @@
+{
+    "version": "3.60",
+    "url": "https://www.fotosketcher.com/FotoSketcher_3.60_portable_64bit.exe",
+    "bin": "FotoSketcher_3.60_portable_64bit.exe",
+    "shortcuts": [
+        [
+            "FotoSketcher_3.60_portable_64bit.exe",
+            "FotoSketcher"
+        ]
+    ],
+    "homepage": "http://fotosketcher.com",
+    "description": "Create beautiful works of art from your digital photos. For free.",
+    "license": "Freeware",
+    "persist": "FotoSketcher.ini"
+}
