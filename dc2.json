@@ -7,7 +7,7 @@
     "url": "https://12noon.com/files/dc2.zip",
     "architecture": {
         "32bit": {
-            "bin": [["dc2x86.exe", "Display Changer II"]],
+            "bin": [["dc2x86.exe", "dc2"]],
             "shortcuts": [
                 [
                     "dc2x86.exe",
@@ -16,7 +16,7 @@
             ]
         },
         "64bit": {
-            "bin": [["dc2.exe", "Display Changer II"]],
+            "bin": [["dc2.exe", "dc2"]],
             "shortcuts": [
                 [
                     "dc2.exe",
